@@ -5,9 +5,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #d5d4d4;
   background: url("./back.jpg");
-  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: auto;
+  background-position: center;
 }
 
 code {
