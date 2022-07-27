@@ -2,3 +2,8 @@
   max-width: 1080px;
   margin: 20px auto;
 }
+
+.search-header {
+  text-align: center;
+  font-size: 28px;
+}
